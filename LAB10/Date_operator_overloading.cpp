@@ -35,31 +35,6 @@ void operator-(Date&b,int y)
 	b.year=b.year-6;
  }
  
-class Time
-{
-	int 
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
-
-
-
-
-
-
- 
  int main()
  {
  	int dd;
